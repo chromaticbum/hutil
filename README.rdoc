@@ -1,0 +1,7 @@
+== Description
+
+Utility functions for making life easier.
+
+== License
+
+hutil is released under the {MIT License}[http://www.opensource.org/licenses/MIT].
