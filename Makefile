@@ -7,4 +7,4 @@ compile:
 	./rebar compile
 
 console: compile
-	erl -pa ebin/ -pa deps/*/ebin -s hutil
+	erl -pa ../hutil -pa ebin/ -pa deps/*/ebin -s hutil
