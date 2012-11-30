@@ -1,4 +1,4 @@
--module(hu_lists).
+-module(hlists).
 
 -export([
     foldl/3

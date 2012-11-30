@@ -5,7 +5,10 @@
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
-                 ]}
+                  stdlib,
+                  sasl,
+                  erlang_js
+                 ]},
+  {mod, {hutil_app, []}}
  ]}.
 

@@ -1,4 +1,4 @@
--module(hu_filename).
+-module(hfilename).
 
 -export([
     extension/1,
