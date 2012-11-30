@@ -2,7 +2,7 @@
  [
   {description, ""},
   {vsn, "1"},
-  {registered, []},
+  {registered, [hutil_app, hless_sup, hless_srv]},
   {applications, [
                   kernel,
                   stdlib,
